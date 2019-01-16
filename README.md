@@ -1,0 +1,2 @@
+"# AlgorytmLSB" 
+"#JPEGAnalyzer" 
